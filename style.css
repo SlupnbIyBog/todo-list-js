@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#todo-input {
+    flex: 1;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#search-input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 15px;
+}
+
+#filters {
+    display: flex;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+#todo-list {
+    padding: 0;
+}
+
+#todo-list li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px;
+    margin-bottom: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#todo-list li::before {
+    content: '';
+    flex: 1;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+#task-counter {
+    color: #666;
+}
