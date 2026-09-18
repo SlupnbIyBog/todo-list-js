@@ -29,3 +29,20 @@
 
 ```bash
 git clone https://github.com/SlupnbIyBog/todo-list-js.git
+
+## Проект из каталога
+
+За основу взят проект **Build a Todo List App in JavaScript** из каталога project-based-learning.
+
+Исходный проект:
+https://github.com/dwyl/javascript-todo-list-tutorial
+
+В своей версии я добавил поиск, фильтры, редактирование и удаление задач, счётчик активных задач, сохранение данных в LocalStorage и возможность очистить выполненные задачи.
+
+## GitHub
+
+https://github.com/SlupnbIyBog/todo-list-js
+
+## Deploy
+
+https://slupnblybog.github.io/todo-list-js/
