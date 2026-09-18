@@ -1,3 +1,5 @@
+[![Maintainability](https://qlty.sh/gh/SlupnbIyBog/projects/todo-list-js/maintainability.svg)](https://qlty.sh/gh/SlupnbIyBog/projects/todo-list-js)
+
 # Todo List
 
 Небольшое приложение для ведения списка задач. Здесь можно добавлять задачи, отмечать их выполненными, изменять и удалять. Все задачи сохраняются в браузере, поэтому после обновления страницы они не пропадают.
